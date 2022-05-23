@@ -1,13 +1,13 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "http://ritikgupta2109/Model_Portfolio_Template/",
+  "homepage": "https://ritikgupta2109.github.io/Model_Portfolio_Template/",
   "version": "2.0.0",
   "private": true,
   "author": {
     "name": "Ritik Gupta",
     "email": "ritikgupta2109@gmail.com",
-    "url": "https://github.com/ritikgupta2109"
+    "url": "https://ritikgupta2109.github.io/"
   },
   "dependencies": {
     "axios": "^0.19.2",

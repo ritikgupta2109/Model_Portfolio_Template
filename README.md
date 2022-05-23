@@ -5,10 +5,10 @@
 
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
-    <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
+    <a href="https://ritikgupta2109.github.io/Model_Portfolio_Template/">ritikgupta2109.github.io/Model_Portfolio_Template/</a>
     <br />
     <br />
-    <a href="https://ritikgupta2109.github.io">About Me</a>
+    <a href="https://ritikgupta2109.github.io/Model_Portfolio_Template/">About Me</a>
   </p>
 </p>
 
@@ -19,7 +19,7 @@
 [![GitHub license](https://img.shields.io/github/license/ritikgupta2109/Model_Portfolio_Template?style=for-the-badge)](https://github.com/ritikgupta2109/Model_Portfolio_Template/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ritikgupta2109?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/ritikgupta2109)
 
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
+[![Site preview](/public/social-image.png)](https://ritikgupta2109.github.io/Model_Portfolio_Template/)
 
 ## Table of Contents
 
